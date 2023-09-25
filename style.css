@@ -1,0 +1,50 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+.lostlegends1{
+    display: block;
+    margin: 0 auto;
+}
+.no-more-news{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: yellowgreen;
+}
+.txt1{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.txt2{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.txt3{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.txt4{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.txt5{
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.txt6{
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+    color: gray;
+}
+.one{
+    
+    margin: 0 auto;
+}
